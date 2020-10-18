@@ -1,4 +1,4 @@
-# invisibility_cloak
+# Invisibility_Cloak
  This is how you you can have your own Harry Potter Invisibility cloak.
  
  here, you have to select hsv code of a perticular color (in my case red) which will make that colored object invisible.
